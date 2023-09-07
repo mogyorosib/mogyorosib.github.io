@@ -6,4 +6,4 @@ author:
 description: "My room is: 3-203"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: jekflix
