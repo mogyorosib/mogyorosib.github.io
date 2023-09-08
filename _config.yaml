@@ -1,9 +1,0 @@
-# Site settings
-title: ELTE teaching
-author:
-  name: Balint Mogyorosi
-  email: balint.mogyorosi7@gmail.com
-description: "My room is: 3-203"
-
-# Build settings
-remote_theme: jekflix
